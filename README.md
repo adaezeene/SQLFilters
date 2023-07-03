@@ -12,13 +12,13 @@ The goal of this project is to investigate security issues within an organizatio
 
 <h2>Concepts Covered</h2>
 
-<b>-Using LIKE to search for a pattern 
+-Using LIKE to search for a pattern 
 
 -Filtering for dates and times
 
 -Using AND and OR to filter on multiple conditions
 
--Using NOT in filters </b>
+-Using NOT in filters 
 
 <h2>>Applying filters to SQL queries Walk-through:</h2>
 
